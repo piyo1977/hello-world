@@ -1,9 +1,7 @@
 # hello-world
 practice
 
---deleted--
+Hi, there.
 practicing git.
-to be able to use pull request. Added 
-
-change made in masatakaharada.
+to be able to use pull request.
 
