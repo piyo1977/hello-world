@@ -1,7 +1,8 @@
 # hello-world
 practice
 
-Hi, there.
+***deleted***
 practicing git.
 to be able to use pull request.
 
+added by masatakaharada.
